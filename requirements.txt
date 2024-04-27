@@ -1,7 +1,7 @@
 cvzone==1.4.1
-opencv-contrib-python==4.9.0.80
+opencv-contrib-python
 opencv-python
-opencv-python-headless==4.9.0.80
+opencv-python-headless
 mediapipe==0.10.9
 PyAutoGUI==0.9.54
 enum34==1.1.10
