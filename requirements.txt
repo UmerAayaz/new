@@ -1,4 +1,4 @@
-PyAudio.whl
+PyAudio==0.2.12
 cvzone==1.4.1
 opencv-contrib-python==4.9.0.80
 opencv-python==4.8.1.78
